@@ -15,4 +15,6 @@ public class move : MonoBehaviour {
             gameObject.transform.Translate(0, 1, 0);
         }
 	}
+	
+	
 }
